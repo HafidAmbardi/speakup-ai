@@ -1,0 +1,758 @@
+[
+  {
+    "_sectionId": "cb9ba0de-06f4-4b3a-af23-6ae3abd12d7e",
+    "_sectionTitle": "Introduction to English Grammar",
+    "_id": "79159c85-8414-45bf-aaae-c5f8b5e31dbd",
+    "title": "Parts of Speech",
+    "subtitle": null,
+    "sequence": 1,
+    "plainTextContent": "Nouns represent people, places, things, or ideas (e.g., dog, city, happiness).\n\nVerbs describe actions or states of being (e.g., run, eat, is).\n\nAdjectives modify nouns (e.g., big, happy).\n\nAdverbs modify verbs, adjectives, or other adverbs (e.g., quickly, very).\n\nPronouns replace nouns (e.g., he, she, it).\n\nPrepositions show relationships (e.g., on, under).\n\nConjunctions connect words or phrases (e.g., and, but).\n\nInterjections express emotions (e.g., Wow! Oh! Ouch!)."
+  },
+  {
+    "plainTextContent": "Basic sentences typically follow the pattern Subject + Verb + Object.\n\nExample: She (subject) reads (verb) a book (object).\n\nThis structure is the foundation for constructing simple sentences.\n\nTo create negative sentences, add \"not\" after the auxiliary verb (such as do, does, or did).\n\nExample: She does not like coffee. (The negative form of She likes coffee).\n\nTo form questions, invert the subject and verb. For yes/no questions, use the auxiliary verb do/does at the beginning of the question.\n\nExample: Do you like coffee? (Here, do comes before you, forming a question.)",
+    "_sectionId": "cb9ba0de-06f4-4b3a-af23-6ae3abd12d7e",
+    "_sectionTitle": "Introduction to English Grammar",
+    "_id": "047ff8af-4580-4c1e-abfa-87e6381f4448",
+    "title": "Sentence Structure",
+    "subtitle": null,
+    "sequence": 2
+  },
+  {
+    "plainTextContent": "The present simple tense is used to describe regular actions, habits, or general facts.\n\nExample: I play tennis every weekend.\n\nFor third-person singular subjects (he, she, it), add an -s or -es to the verb.\n\nExample: She plays tennis. (Here, plays is the verb in third-person singular form.)",
+    "_sectionId": "cb9ba0de-06f4-4b3a-af23-6ae3abd12d7e",
+    "_sectionTitle": "Introduction to English Grammar",
+    "_id": "b25d0fea-a0ce-404f-ab19-8cc7be7a8440",
+    "title": "Tenses",
+    "subtitle": null,
+    "sequence": 3
+  },
+  {
+    "title": "Articles",
+    "subtitle": null,
+    "sequence": 4,
+    "plainTextContent": "Articles a and an are used to refer to non-specific nouns, while the is used for specific nouns.\n\nUse \"a\" before words that begin with a consonant sound:\n\na car, a book\n\nUse \"an\" before words that begin with a vowel sound:\n\nan apple, an umbrella",
+    "_sectionId": "cb9ba0de-06f4-4b3a-af23-6ae3abd12d7e",
+    "_sectionTitle": "Introduction to English Grammar",
+    "_id": "f8489e11-35a3-486d-875e-b8588f98c5de"
+  },
+  {
+    "_sectionTitle": "Introduction to English Grammar",
+    "_id": "6a67721b-4c3c-40f7-b3cd-7eaac1140dac",
+    "title": "Questions",
+    "subtitle": null,
+    "sequence": 5,
+    "plainTextContent": "Yes/No questions are formed by inverting the subject and verb:\n\nExample: Do you speak English? (Here, Do comes first to form a question).\n\nWH-questions use question words like what, where, when, why, how, followed by the verb and subject:\n\nExample: Where are you from? (Here, Where starts the question.)",
+    "_sectionId": "cb9ba0de-06f4-4b3a-af23-6ae3abd12d7e"
+  },
+  {
+    "subtitle": null,
+    "sequence": 6,
+    "plainTextContent": "To make a sentence negative in the present simple tense, use do not (don’t) or does not (doesn’t) for third-person singular subjects.\n\nExample: I don’t like pizza. (Here, don’t negates the verb like).",
+    "_sectionId": "cb9ba0de-06f4-4b3a-af23-6ae3abd12d7e",
+    "_sectionTitle": "Introduction to English Grammar",
+    "_id": "82601dc2-c511-4075-8b95-8db8c9504f30",
+    "title": "Negation"
+  },
+  {
+    "sequence": 7,
+    "plainTextContent": "Nouns are words that name people, places, things, or ideas. They are essential for forming basic sentences and referring to objects or concepts around you. Understanding and using common nouns will help you talk about things and people you interact with every day.\n\nExamples:  \n\nPeople: teacher, student, friend, neighbor\n\nPlaces: school, home, park, office\n\nThings: book, car, table, phone\n\nIdeas: happiness, freedom, love, time\n\nHow to Use: \n\nI read a book. (Here, book is a noun that names an object)\n\nShe is my friend. (Here, friend is a noun that names a person)",
+    "_sectionId": "e50a6a1c-0611-4d7f-be5b-01c2394e6ddc",
+    "_sectionTitle": "Building Core Vocabulary",
+    "_id": "8ba79cab-d067-49fc-8f13-c9ab4fe32ec9",
+    "title": "Common Nouns",
+    "subtitle": null
+  },
+  {
+    "subtitle": null,
+    "sequence": 8,
+    "plainTextContent": "Verbs describe actions or states of being. Learning action verbs is crucial because they express what people or things are doing, which is a central part of communication. These verbs help in expressing movement, thoughts, and feelings.\n\nExamples:\n\nAction Verbs: eat, run, jump, talk, go, write, play, read, sing\n\nHow to Use: \n\nI eat lunch at 12 PM. (Here, eat is the action being performed)\n\nThey play soccer every weekend. (Here, play is the action)\n\nVerbs change depending on the subject and tense, so it’s important to practice them in different forms.",
+    "_sectionId": "e50a6a1c-0611-4d7f-be5b-01c2394e6ddc",
+    "_sectionTitle": "Building Core Vocabulary",
+    "_id": "a737d136-6090-4ea0-87fa-3624548770a4",
+    "title": "Action Verbs"
+  },
+  {
+    "_sectionId": "e50a6a1c-0611-4d7f-be5b-01c2394e6ddc",
+    "_sectionTitle": "Building Core Vocabulary",
+    "_id": "b71c900f-cd5f-40b6-9f26-94d0e176dda8",
+    "title": "Adjectives",
+    "subtitle": null,
+    "sequence": 9,
+    "plainTextContent": "Adjectives are words that describe or modify nouns. They add detail to sentences, making them more vivid and descriptive. By using adjectives, you can give more information about the people, things, or places you are talking about.\n\nExamples:  \n\nSize: big, small, large, tiny\n\nColor: red, blue, green, yellow\n\nEmotion: happy, sad, excited, angry\n\nShape: round, square, flat\n\nHow to Use: \n\nThe car is fast. (Here, fast describes the noun car)\n\nShe has a beautiful smile. (Here, beautiful describes smile)\n\nAdjectives help you convey a clearer image of what you are discussing."
+  },
+  {
+    "plainTextContent": "Adverbs are words that modify verbs, adjectives, or other adverbs. They tell us how, when, where, or to what extent something happens. Adverbs allow you to be more specific in describing actions or states.\n\nExamples:  \n\nHow: quickly, slowly, carefully, loudly\n\nWhen: now, later, soon, yesterday\n\nWhere: here, there, everywhere, nowhere\n\nFrequency: always, often, sometimes, never\n\nHow to Use: \n\nShe speaks clearly. (Here, clearly modifies the verb speaks)\n\nThey walk slowly. (Here, slowly describes how they walk)\n\nWe will meet soon. (Here, soon tells us when the meeting will happen)\n\nAdverbs help clarify how actions are performed and add precision to your communication.",
+    "_sectionId": "e50a6a1c-0611-4d7f-be5b-01c2394e6ddc",
+    "_sectionTitle": "Building Core Vocabulary",
+    "_id": "24fea63c-15e1-4923-9c1e-750a4c4d0aa2",
+    "title": "Useful Adverbs",
+    "subtitle": null,
+    "sequence": 10
+  },
+  {
+    "_id": "d0a535f6-0873-4c0f-a049-643294e89bad",
+    "title": "Everyday Phrases",
+    "subtitle": null,
+    "sequence": 11,
+    "plainTextContent": "Learning common phrases and expressions is a key part of becoming conversationally fluent. These phrases help you communicate quickly and naturally in everyday situations. They’re especially useful for greetings, making requests, and asking questions.\n\nExamples:  \n\nGreetings: How are you?, Good morning!, Nice to meet you.\n\nAsking for directions: Where is the bus stop?, How do I get to the station?\n\nTime-related phrases: What time is it?, It's 3 PM now.\n\nPolite questions: Can you help me?, Excuse me, could you tell me the way to the park?\n\nHow to Use: \n\nHow are you? is used as a friendly greeting and inquiry about someone’s well-being.\n\nWhat time is it? is used to ask for the current time.\n\nLearning these phrases will make your conversations flow more naturally and help you feel more confident in real-life situations.",
+    "_sectionId": "e50a6a1c-0611-4d7f-be5b-01c2394e6ddc",
+    "_sectionTitle": "Building Core Vocabulary"
+  },
+  {
+    "_id": "8dc449b8-3c89-480d-8df1-454e30bb8cfb",
+    "title": "Sentence Structure",
+    "subtitle": null,
+    "sequence": 12,
+    "plainTextContent": "A sentence is a group of words that express a complete thought. The most basic sentence structure in English is Subject + Verb + Object.\n\nSubject: The subject is the person, thing, or idea that the sentence is about. It tells us who or what is performing the action.\n\nExample: She plays tennis. In this sentence, She is the subject.\n\nVerb: The verb is the action word in a sentence. It tells us what the subject is doing, or it can describe a state of being.\n\nExample: She plays tennis. In this sentence, plays is the verb.\n\nObject: The object is the noun or noun phrase that receives the action of the verb. It tells us what the action is directed toward.\n\nExample: She plays tennis. In this sentence, tennis is the object.\n\nSimple Sentence Example: She (subject) plays (verb) tennis (object).",
+    "_sectionId": "c199cdb2-56a9-44a1-bb98-52d373eb837e",
+    "_sectionTitle": "Forming Simple Sentences"
+  },
+  {
+    "plainTextContent": "To make a negative sentence, we typically use the auxiliary verb do (or does for third-person singular) and add \"not\" after it.\n\nStructure: [Subject] + [do/does] + not + [verb] + [object] \n\nExample (positive): She plays tennis.\n\nExample (negative): She does not play tennis.\n\nHere, we added does not (shortened to doesn't) before the verb play to make it negative.\n\nNote: For the verb to be (am, is, are), the negation is formed by adding not directly after the verb:\n\nExample: She is not tired.",
+    "_sectionId": "c199cdb2-56a9-44a1-bb98-52d373eb837e",
+    "_sectionTitle": "Forming Simple Sentences",
+    "_id": "1721bc33-7580-4e16-8ca0-f49d770b2bfe",
+    "title": "Negative Sentences",
+    "subtitle": null,
+    "sequence": 13
+  },
+  {
+    "_id": "13f84ea5-b306-48b7-8a91-8b6849fa60b4",
+    "title": "Asking Questions",
+    "subtitle": null,
+    "sequence": 14,
+    "plainTextContent": "To form questions in English, we often invert the subject and verb. This allows us to ask whether something is true or not (yes/no questions).\n\nYes/No Questions: For these questions, we use an auxiliary verb (do/does for most verbs, or am/is/are for the verb to be) at the start of the question. \n\nStructure: [Auxiliary verb] + [subject] + [verb] + [object]?\n\nExample: Does she play tennis? (Here, does comes before she to form a question.)\n\nNote: If the verb is to be, the subject and verb are simply inverted:\n\nExample: Is she tired? (Here, is comes before she.)",
+    "_sectionId": "c199cdb2-56a9-44a1-bb98-52d373eb837e",
+    "_sectionTitle": "Forming Simple Sentences"
+  },
+  {
+    "_sectionId": "c199cdb2-56a9-44a1-bb98-52d373eb837e",
+    "_sectionTitle": "Forming Simple Sentences",
+    "_id": "767d323a-bb4b-471b-86ad-30168799cc28",
+    "title": "WH-Questions",
+    "subtitle": null,
+    "sequence": 15,
+    "plainTextContent": "WH-questions are used to ask for specific information. These questions start with a WH-word (what, where, when, why, who, etc.), followed by the auxiliary verb, the subject, and the main verb.\n\nStructure: [WH-word] + [auxiliary verb] + [subject] + [verb] + [object]?\n\nExamples: \n\nWhat does she play? (We start with What to ask for the object of the verb.)\n\nWhere do you live? (We start with Where to ask for the location.)\n\nWhy are they happy? (We start with Why to ask for the reason.)\n\nWH-questions are useful when you need more detailed answers beyond just \"yes\" or \"no.\""
+  },
+  {
+    "_sectionTitle": "Pronunciation Basics",
+    "_id": "36213119-e1a1-454c-aed9-11cb76ebcc06",
+    "title": "Vowel Sounds",
+    "subtitle": null,
+    "sequence": 16,
+    "plainTextContent": "Vowel sounds are crucial in English because they help distinguish words. English vowels can be short or long, and the difference in sound can change the meaning of words.\n\nShort Vowels: These vowels are pronounced with a short, quick sound. Short vowels typically appear in closed syllables (syllables that end with a consonant).\n\nExamples:  \n\ncat (short \"a\")\n\nsit (short \"i\")\n\ndog (short \"o\")\n\ncup (short \"u\")\n\npen (short \"e\")\n\nLong Vowels: These vowels are pronounced with a longer, more drawn-out sound, and often have the same sound as the letter itself.\n\nExamples:  \n\ncake (long \"a\")\n\nbike (long \"i\")\n\ntree (long \"e\")\n\nhope (long \"o\")\n\ntube (long \"u\")\n\nTip: Pay attention to the difference between the short and long vowel sounds as it can change the meaning of a word.",
+    "_sectionId": "8cec2ce5-0e98-492b-8597-eee0315ae757"
+  },
+  {
+    "title": "Consonant Sounds",
+    "subtitle": null,
+    "sequence": 17,
+    "plainTextContent": "Consonants are sounds made by blocking or narrowing the airflow in your mouth. Some consonants are voiced, which means you use your vocal cords to produce sound, while others are unvoiced.\n\nExamples of Consonant Sounds:  \n\nb in ball (voiced)\n\nt in top (unvoiced)\n\nk in cat (unvoiced)\n\ng in go (voiced)\n\nSpecial Consonants: Some consonants in English have specific sounds that can be difficult to pronounce, especially for non-native speakers.\n\nTH sounds: \n\nVoiced: this, that (the sound is made by vibrating the vocal cords)\n\nUnvoiced: think, thanks (the sound is made without using vocal cords)\n\nTip: Practice the \"th\" sounds slowly to distinguish between the voiced and unvoiced versions.",
+    "_sectionId": "8cec2ce5-0e98-492b-8597-eee0315ae757",
+    "_sectionTitle": "Pronunciation Basics",
+    "_id": "36faecea-96a5-4c85-9788-7b73aa5a76c6"
+  },
+  {
+    "_sectionId": "8cec2ce5-0e98-492b-8597-eee0315ae757",
+    "_sectionTitle": "Pronunciation Basics",
+    "_id": "b13bbf59-cba8-4f55-b6ac-f242be19cbc3",
+    "title": "Word Stress",
+    "subtitle": null,
+    "sequence": 18,
+    "plainTextContent": "In English, certain syllables in words are stressed more than others. The stressed syllable is pronounced louder, longer, and with more emphasis. Correct word stress is important because it can change the meaning of the word.\n\nExamples: \n\nphotograph: The stress is on the first syllable: PHO-to-graph\n\nphotographer: The stress is on the second syllable: pho-TO-graph-er\n\nTip: When learning new words, listen to their pronunciation carefully and try to repeat them with the correct stress pattern. Using online dictionaries that provide audio pronunciation can help."
+  },
+  {
+    "subtitle": null,
+    "sequence": 19,
+    "plainTextContent": "Intonation refers to the rise and fall of your voice when speaking. It conveys meaning, emotion, and helps listeners understand whether you are making a statement, asking a question, or expressing a feeling.\n\nRising Intonation: In English, questions that can be answered with \"yes\" or \"no\" often have a rising intonation at the end of the sentence.\n\nExample: Do you like coffee? (The voice rises at the end of the question.)\n\nFalling Intonation: Statements or commands typically have a falling intonation, where the voice drops at the end.\n\nExample: I like coffee. (The voice falls at the end of the statement.)\n\nTip: Practice listening to the intonation patterns in English conversations. Pay attention to how the voice rises in questions and falls in statements to mimic natural speech.",
+    "_sectionId": "8cec2ce5-0e98-492b-8597-eee0315ae757",
+    "_sectionTitle": "Pronunciation Basics",
+    "_id": "106bfbf7-98cb-4608-9fb8-afcac2f9b526",
+    "title": "Intonation"
+  },
+  {
+    "title": "Greetings",
+    "subtitle": null,
+    "sequence": 20,
+    "plainTextContent": "Starting a conversation with the right greeting is important in English, and the greeting depends on the time of day or the context. Greetings help set the tone for a friendly and polite conversation.\n\nGood Morning!\nUse this greeting before noon, typically when you first meet someone in the morning.\n\nExample: Good morning! How are you today?\n\nGood Afternoon!\nThis greeting is used from noon until around 5 or 6 PM, depending on the context.\n\nExample: Good afternoon! How was your lunch?\n\nGood Evening!\nUse this greeting in the late afternoon or evening, often after around 6 PM.\n\nExample: Good evening! It’s nice to see you again.\n\nHello! or Hi!\nThese are general greetings that can be used at any time of day. Hi is slightly more informal than Hello but both are commonly used in casual conversations.\n\nExample: Hi! How are you? or Hello! Nice to meet you.\n\nTip: In a casual conversation, you can simply say Hi or Hello, especially when you are meeting someone for the first time.",
+    "_sectionId": "6c58e8ce-62ed-45a6-ad6b-5996737fe3e3",
+    "_sectionTitle": "Conversation for Everyday English",
+    "_id": "b37c7a57-6e21-4562-94af-8cb771bd2c54"
+  },
+  {
+    "_sectionId": "6c58e8ce-62ed-45a6-ad6b-5996737fe3e3",
+    "_sectionTitle": "Conversation for Everyday English",
+    "_id": "4d679a85-b97c-4fe4-8e6b-22128ae3e67d",
+    "title": "Introducing Yourself",
+    "subtitle": null,
+    "sequence": 21,
+    "plainTextContent": "Being able to introduce yourself clearly is essential for making connections with others. Here are some basic phrases for introducing yourself and asking for someone else’s name.\n\nHi, my name is [Your Name].\nThis is a common and straightforward way to introduce yourself.\n\nExample: Hi, my name is John.\n\nWhat’s your name?\nThis is a polite way to ask someone their name in return.\n\nExample: Nice to meet you, John. What’s your name?\n\nI’m from [Country]. Where are you from?\nUse this to share where you're from and ask someone about their origin.\n\nExample: I’m from Canada. Where are you from?\n\nTip: It’s common to ask about where someone is from after introducing yourself, especially if you're meeting people from different cultures or places."
+  },
+  {
+    "_id": "2c0d13c2-c47a-4641-b0d9-651e84e6a76c",
+    "title": "Asking for Help",
+    "subtitle": null,
+    "sequence": 22,
+    "plainTextContent": "In everyday life, you’ll often need to ask for assistance. Here are some key phrases for asking for help in various situations:\n\nCan you help me, please?\nThis is a polite way to ask for assistance.\n\nExample: Can you help me, please? I’m looking for the bus station.\n\nExcuse me, where is the bathroom?\nUse this phrase to ask for directions to the bathroom or restroom.\n\nExample: Excuse me, where is the bathroom?\n\nHow much does this cost?\nUse this phrase when you want to inquire about the price of an item or service.\n\nExample: How much does this shirt cost?\n\nTip: When asking for help, always add please to make your request more polite.",
+    "_sectionId": "6c58e8ce-62ed-45a6-ad6b-5996737fe3e3",
+    "_sectionTitle": "Conversation for Everyday English"
+  },
+  {
+    "plainTextContent": "Ending a conversation politely is just as important as starting one. Here are some common phrases used to say goodbye:\n\nGoodbye!\nThis is a formal way to say farewell.\n\nExample: Goodbye! It was great talking to you.\n\nSee you later!\nA more casual way to say goodbye, often used when you expect to see the person again.\n\nExample: See you later! Have a great day!\n\nHave a nice day!\nA polite phrase to wish someone well as they leave.\n\nExample: It was nice to meet you. Have a nice day!\n\nTip: If you're unsure about how to say goodbye, See you later or Take care is a friendly, informal way to part ways.",
+    "_sectionId": "6c58e8ce-62ed-45a6-ad6b-5996737fe3e3",
+    "_sectionTitle": "Conversation for Everyday English",
+    "_id": "e4a4d82f-ff81-48d5-974f-9a6fcf88501d",
+    "title": "Saying Goodbye",
+    "subtitle": null,
+    "sequence": 23
+  },
+  {
+    "plainTextContent": "Present Continuous: Used for actions happening right now or around the present moment.\n\nExample: She is reading a book. (action happening right now)\n\nPast Continuous: Describes actions that were ongoing in the past.\n\nExample: They were playing football when it started to rain. (ongoing action in the past)\n\nPresent Perfect: Describes actions that started in the past and are still relevant or have an effect in the present.\n\nExample: I have seen that movie. (experience up to now)\n\nPast Perfect: Describes actions completed before another action in the past.\n\nExample: He had finished his homework before he went out. (action completed before another past event)",
+    "_sectionId": "10cdf3d1-8f9a-4558-9d69-6be7d04d4b26",
+    "_sectionTitle": "Grammar for Clarity and Accuracy",
+    "_id": "fbafa909-1446-485b-abc9-458598c19eda",
+    "title": "Verb Tenses",
+    "subtitle": "Expanding beyond simple present and past tenses, learners need to use various tenses correctly to describe actions in different time frames.",
+    "sequence": 24
+  },
+  {
+    "_id": "d3d26592-2510-4d1a-a45a-038f27f2025f",
+    "title": "Modal Verbs",
+    "subtitle": "These verbs express ability, possibility, necessity, or permission.",
+    "sequence": 25,
+    "plainTextContent": "Can / Could: Ability or possibility.\n\nExample: She can swim. (ability) / It could rain later. (possibility)\n\nMust / Have to: Necessity or obligation.\n\nExample: You must wear a helmet. (necessity) / I have to leave now. (obligation)\n\nShould: Advice or suggestion.\n\nExample: You should study harder.",
+    "_sectionId": "10cdf3d1-8f9a-4558-9d69-6be7d04d4b26",
+    "_sectionTitle": "Grammar for Clarity and Accuracy"
+  },
+  {
+    "sequence": 26,
+    "plainTextContent": "Active Voice: The subject performs the action.\n\nExample: The chef cooked the meal.\n\nPassive Voice: The subject receives the action.\n\nExample: The meal was cooked by the chef.",
+    "_sectionId": "10cdf3d1-8f9a-4558-9d69-6be7d04d4b26",
+    "_sectionTitle": "Grammar for Clarity and Accuracy",
+    "_id": "0a91fe11-18b9-4fbb-9df6-07cbc844b746",
+    "title": "Active and Passive Voice",
+    "subtitle": "Understanding when to use active vs. passive voice is crucial for clarity and emphasis."
+  },
+  {
+    "_id": "a742e1b0-7c05-4901-8990-363709638984",
+    "title": "Conditionals",
+    "subtitle": "Learn how to express hypothetical situations and their possible outcomes.",
+    "sequence": 27,
+    "plainTextContent": "First Conditional: Real and possible situations in the future.\n\nExample: If it rains, I will stay home.\n\nSecond Conditional: Hypothetical situations in the present or future.\n\nExample: If I were rich, I would travel the world.\n\nThird Conditional: Hypothetical situations in the past.\n\nExample: If I had studied harder, I would have passed the exam.",
+    "_sectionId": "10cdf3d1-8f9a-4558-9d69-6be7d04d4b26",
+    "_sectionTitle": "Grammar for Clarity and Accuracy"
+  },
+  {
+    "_id": "8536cec6-02b7-4b66-bcf3-5fe499ea85fc",
+    "title": "Synonyms and Antonyms",
+    "subtitle": null,
+    "sequence": 28,
+    "plainTextContent": "Building a deeper vocabulary means recognizing synonyms (words with similar meanings) and antonyms (words with opposite meanings). This allows you to express yourself more precisely and avoid repetition.\n\nSynonyms: happy → joyful, content, pleased\n\nAntonyms: hot → cold, cool",
+    "_sectionId": "fc5a1476-7c48-4d16-8a7d-eee3cb02e3dd",
+    "_sectionTitle": "Expanding Vocabulary Range"
+  },
+  {
+    "title": "Collocations",
+    "subtitle": null,
+    "sequence": 29,
+    "plainTextContent": "Collocations are pairs or groups of words that are commonly used together. Understanding collocations helps you sound more natural and fluent in English.\n\nExamples:\n\nMake a decision (not do a decision)\n\nTake a break (not make a break)\n\nStrong coffee (not powerful coffee)",
+    "_sectionId": "fc5a1476-7c48-4d16-8a7d-eee3cb02e3dd",
+    "_sectionTitle": "Expanding Vocabulary Range",
+    "_id": "7e0fe321-4e43-4f9b-9fbc-80e768182596"
+  },
+  {
+    "_id": "e7a0dfb7-3491-4e8a-9134-3719bf8d1089",
+    "title": "Phrasal Verbs",
+    "subtitle": null,
+    "sequence": 30,
+    "plainTextContent": "These are verbs combined with prepositions or adverbs that take on new meanings. Mastering phrasal verbs will help you understand more natural, conversational English.\n\nExamples:\n\nLook after (take care of) – She looks after her younger brother.\n\nRun out of (use up) – We’ve run out of milk.\n\nTurn up (arrive unexpectedly) – She turned up late for the meeting.",
+    "_sectionId": "fc5a1476-7c48-4d16-8a7d-eee3cb02e3dd",
+    "_sectionTitle": "Expanding Vocabulary Range"
+  },
+  {
+    "_sectionId": "fc5a1476-7c48-4d16-8a7d-eee3cb02e3dd",
+    "_sectionTitle": "Expanding Vocabulary Range",
+    "_id": "65d13f56-91a3-4d9f-b2ea-03718bbdd1b7",
+    "title": "Idiomatic Expressions",
+    "subtitle": null,
+    "sequence": 31,
+    "plainTextContent": "Idioms are phrases where the meaning is not directly related to the words used. Learning idioms adds variety and color to your language.\n\nExamples:\n\nBreak the ice (start a conversation)\n\nUnder the weather (feeling ill)\n\nA piece of cake (something easy)"
+  },
+  {
+    "_id": "efdf7542-0782-4670-a0f9-e0953fcadc4d",
+    "title": "Word Forms",
+    "subtitle": null,
+    "sequence": 32,
+    "plainTextContent": "Learning different forms of words (noun, verb, adjective, adverb) helps you use vocabulary more flexibly.\n\nExamples:\n\nDecide (verb), decision (noun), decisive (adjective), decisively (adverb)\n\nCreate (verb), creation (noun), creative (adjective), creatively (adverb)",
+    "_sectionId": "fc5a1476-7c48-4d16-8a7d-eee3cb02e3dd",
+    "_sectionTitle": "Expanding Vocabulary Range"
+  },
+  {
+    "_sectionTitle": "Expanding Vocabulary Range",
+    "_id": "f622496c-904e-4237-9237-22d8029efe55",
+    "title": "Contextual Vocabulary",
+    "subtitle": null,
+    "sequence": 33,
+    "plainTextContent": "Expanding vocabulary involves understanding the context in which words are used, helping you choose the right word for different situations.\n\nFormal vs. Informal:\n\nInformal: Kids → Children\n\nFormal: Help → Assist\n\nTechnical vs. Everyday Language:\n\nTechnical: Calculate → Compute\n\nEveryday: Talk → Speak",
+    "_sectionId": "fc5a1476-7c48-4d16-8a7d-eee3cb02e3dd"
+  },
+  {
+    "plainTextContent": "An independent clause can stand alone as a sentence because it expresses a complete thought. \n\nFor example, She enjoys reading books.\n\nA dependent clause cannot stand alone because it doesn't express a complete thought. \n\nFor example, Although she enjoys reading books, is incomplete on its own.",
+    "_sectionId": "901438dd-d887-43fb-b0fa-09ba1d386907",
+    "_sectionTitle": "Building Complex Sentences",
+    "_id": "c3e249f5-8f93-4743-aadd-99db2da5f82c",
+    "title": "Independent and Dependent Clauses",
+    "subtitle": null,
+    "sequence": 34
+  },
+  {
+    "title": "Connecting Clauses with Conjunctions",
+    "subtitle": null,
+    "sequence": 35,
+    "plainTextContent": "Use coordinating conjunctions (e.g., and, but, or, so, for) to connect two independent clauses. \n\nFor example, I wanted to go to the park, but it started raining.\n\nSubordinating conjunctions (e.g., although, because, if, when, while) are used to connect a dependent clause to an independent clause. \n\nFor example, I stayed home because it was raining.",
+    "_sectionId": "901438dd-d887-43fb-b0fa-09ba1d386907",
+    "_sectionTitle": "Building Complex Sentences",
+    "_id": "4849d508-0d3c-4868-9c4e-1a0931a976aa"
+  },
+  {
+    "sequence": 36,
+    "plainTextContent": "A relative clause gives more information about a noun. It starts with a relative pronoun like who, which, that.\n\nExample: The book that she is reading is very interesting. (The relative clause that she is reading gives more information about the book).",
+    "_sectionId": "901438dd-d887-43fb-b0fa-09ba1d386907",
+    "_sectionTitle": "Building Complex Sentences",
+    "_id": "67bc4113-7125-4fe2-81df-be2ca7c64d67",
+    "title": "Relative Clauses",
+    "subtitle": null
+  },
+  {
+    "_sectionTitle": "Building Complex Sentences",
+    "_id": "135b9024-cc0e-4776-8ede-1905d149cd9a",
+    "title": "Conditional Sentences",
+    "subtitle": null,
+    "sequence": 37,
+    "plainTextContent": "First Conditional: Talks about real or possible situations in the future. \n\nIf it rains, I will stay home.\n\nSecond Conditional: Describes hypothetical situations in the present or future. \n\nIf I were you, I would go to the doctor.\n\nThird Conditional: Refers to past situations that didn’t happen. \n\nIf I had studied, I would have passed the exam.",
+    "_sectionId": "901438dd-d887-43fb-b0fa-09ba1d386907"
+  },
+  {
+    "sequence": 38,
+    "plainTextContent": "Transition words help link ideas and make your writing or speaking more cohesive. Examples include however, therefore, for example, on the other hand.\n\nExample: I wanted to go out. However, it started raining, so I stayed inside.",
+    "_sectionId": "901438dd-d887-43fb-b0fa-09ba1d386907",
+    "_sectionTitle": "Building Complex Sentences",
+    "_id": "7cd01beb-f454-4450-b873-faedd7f09b63",
+    "title": "Using Transition Words",
+    "subtitle": null
+  },
+  {
+    "title": "Expanding Responses",
+    "subtitle": null,
+    "sequence": 39,
+    "plainTextContent": "Rather than giving simple yes/no answers, try expanding your responses to provide more context. This makes conversations more engaging.\n\nExample: \n\nQuestion: \"Do you like music?\"\n\nResponse: \"Yes, I love music! I listen to different genres, but my favorite is jazz. I find it really relaxing.\"",
+    "_sectionId": "dae4f284-9aa4-41c2-b207-caae89b9ab8a",
+    "_sectionTitle": "Practical Conversation Skills",
+    "_id": "fa404727-1555-40ad-973d-599e40e93f14"
+  },
+  {
+    "_sectionId": "dae4f284-9aa4-41c2-b207-caae89b9ab8a",
+    "_sectionTitle": "Practical Conversation Skills",
+    "_id": "ae1b469e-ce84-495b-a823-2767d7ff2b96",
+    "title": "Asking Follow-Up Questions",
+    "subtitle": null,
+    "sequence": 40,
+    "plainTextContent": "To keep a conversation flowing, ask follow-up questions that show interest in the other person’s response. This also helps deepen the conversation.\n\nExample:\n\nYou: \"How was your weekend?\"\n\nOther person: \"It was great, I went hiking.\"\n\nYou (Follow-up): \"That sounds fun! Where did you go hiking? Was it your first time?\""
+  },
+  {
+    "plainTextContent": "Expressing opinions and giving suggestions adds depth to your conversation. Use phrases like I think, I believe, In my opinion, I suggest, You might want to.\n\nExample:\n\nOpinion: \"I think learning a new language is very rewarding. It opens up so many opportunities.\"\n\nSuggestion: \"You might want to try studying with a group. It can make learning more enjoyable.\"",
+    "_sectionId": "dae4f284-9aa4-41c2-b207-caae89b9ab8a",
+    "_sectionTitle": "Practical Conversation Skills",
+    "_id": "1bf732f3-788d-4b1c-b911-0135ae52511d",
+    "title": "Giving Opinions and Making Suggestions",
+    "subtitle": null,
+    "sequence": 41
+  },
+  {
+    "_id": "4ee5fd69-d2d5-4017-a657-f5ddec97d2fb",
+    "title": "Handling Disagreements Politely",
+    "subtitle": null,
+    "sequence": 42,
+    "plainTextContent": "Disagreeing is natural, but it’s important to do it politely. Use phrases like I see your point, but..., I understand, however..., or That’s an interesting perspective, but I think....\n\nExample:\n\nYou: \"I think traveling is the best way to learn about new cultures.\"\n\nOther person: \"I prefer reading about them in books.\"\n\nYou (Polite disagreement): \"That’s an interesting perspective, but I believe experiencing a culture firsthand can give a deeper understanding.\"",
+    "_sectionId": "dae4f284-9aa4-41c2-b207-caae89b9ab8a",
+    "_sectionTitle": "Practical Conversation Skills"
+  },
+  {
+    "_id": "42c38401-47f3-47ff-a6cc-af730fea29f2",
+    "title": "Small Talk",
+    "subtitle": null,
+    "sequence": 43,
+    "plainTextContent": "Small talk is important in social and professional settings. Practice discussing everyday topics like the weather, current events, or hobbies.\n\nExample:\n\nYou: \"It’s really cold today, isn’t it?\"\n\nOther person: \"Yes, I’m not used to this weather. How do you stay warm?\"\n\nYou: \"I like to wear layers and drink hot coffee. What about you?\"",
+    "_sectionId": "dae4f284-9aa4-41c2-b207-caae89b9ab8a",
+    "_sectionTitle": "Practical Conversation Skills"
+  },
+  {
+    "title": "Expressing Emotions",
+    "subtitle": null,
+    "sequence": 44,
+    "plainTextContent": "Being able to express emotions appropriately in conversation helps to build rapport and makes interactions feel more genuine. Use expressions like I feel, I’m excited, I’m worried, That’s frustrating.\n\nExample:\n\n\"I’m excited about the weekend because I’ll get to spend time with my family.\"\n\n\"That’s frustrating! I know how hard you’ve been working on this project.\"",
+    "_sectionId": "dae4f284-9aa4-41c2-b207-caae89b9ab8a",
+    "_sectionTitle": "Practical Conversation Skills",
+    "_id": "31683231-4d00-45e9-aec4-581fb49f1d37"
+  },
+  {
+    "_id": "b9f79d0e-efee-4020-8aee-dc562ac18ca3",
+    "title": "Structuring Your Speech",
+    "subtitle": null,
+    "sequence": 45,
+    "plainTextContent": "A well-organized speech has a clear structure: introduction, body, and conclusion.\n\nIntroduction: Start with a hook to capture attention. This could be an interesting fact, a question, or a personal story. Then, introduce the purpose of your speech.\n\nExample: \"Good morning, everyone. Have you ever thought about how much technology has changed our daily lives? Today, I’ll talk about how technology impacts education.\"\n\nBody: This is where you present your main points. Organize them logically, with clear transitions between each point. Each point should be backed up with evidence or examples.\n\nExample: \"First, let's look at how technology has made learning more accessible. Online platforms like Coursera have made courses available to anyone with an internet connection.\"\n\nConclusion: End your speech by summarizing the main points and leaving a lasting impression. You can restate your main idea and end with a call to action or a thought-provoking statement.\n\nExample: \"In conclusion, technology is not just changing how we learn; it’s making education accessible to people all around the world. Let’s embrace these changes and use them to our advantage.\"",
+    "_sectionId": "559c0b48-046f-4ae6-a006-d8a31cfa72fb",
+    "_sectionTitle": "Giving Speech for people"
+  },
+  {
+    "_id": "600a6398-3c65-4683-8cd8-e4fb7aad6107",
+    "title": "Engaging Your Audience",
+    "subtitle": null,
+    "sequence": 46,
+    "plainTextContent": "Eye Contact: Make eye contact with your audience to build a connection. This shows confidence and makes your speech feel more personal.\n\nBody Language: Use gestures to emphasize key points, but avoid overdoing it. Move around a little to keep your audience’s attention, but don’t pace excessively.\n\nTone and Volume: Vary your tone to match the message. A lively tone works for energetic topics, while a calm tone is suitable for serious topics. Adjust your volume to ensure everyone can hear you clearly.",
+    "_sectionId": "559c0b48-046f-4ae6-a006-d8a31cfa72fb",
+    "_sectionTitle": "Giving Speech for people"
+  },
+  {
+    "subtitle": null,
+    "sequence": 47,
+    "plainTextContent": "Speak slowly enough so your audience can follow along. Enunciate your words clearly and avoid rushing.\n\nExample: Practice emphasizing important words in a sentence: \"Technology has revolutionized education.\"",
+    "_sectionId": "559c0b48-046f-4ae6-a006-d8a31cfa72fb",
+    "_sectionTitle": "Giving Speech for people",
+    "_id": "82f10296-392e-48a2-bb8d-f1050dd130a9",
+    "title": "Speaking Clearly and Slowly"
+  },
+  {
+    "_sectionId": "559c0b48-046f-4ae6-a006-d8a31cfa72fb",
+    "_sectionTitle": "Giving Speech for people",
+    "_id": "9a943b8a-f7e8-47e5-951e-6d186a62c7f0",
+    "title": "Using Visual Aids",
+    "subtitle": null,
+    "sequence": 48,
+    "plainTextContent": "If possible, incorporate visual aids like slides or images to support your points. Keep them simple and relevant.\n\nExample: \"As you can see in this graph, online learning platforms have grown significantly over the last five years.\""
+  },
+  {
+    "_sectionTitle": "Giving Speech for people",
+    "_id": "086db723-00f5-4cc4-9a7d-a01a52bb4707",
+    "title": "Practice and Confidence",
+    "subtitle": null,
+    "sequence": 49,
+    "plainTextContent": "Practice your speech multiple times to become comfortable with the material. This will reduce nervousness and allow you to focus on engaging with your audience.",
+    "_sectionId": "559c0b48-046f-4ae6-a006-d8a31cfa72fb"
+  },
+  {
+    "title": "Advanced Verb Tenses",
+    "subtitle": null,
+    "sequence": 50,
+    "plainTextContent": "Future Perfect: Describes an action that will be completed before a certain point in the future.\n\nExample: By next year, I will have finished my degree.\n\nPast Perfect Continuous: Expresses an ongoing action that was happening before another action in the past.\n\nExample: She had been reading for two hours when I called her.\n\nFuture Continuous: Describes an ongoing action that will happen at a specific time in the future.\n\nExample: At 8 PM tomorrow, I will be studying.",
+    "_sectionId": "3d2ba72c-d253-43e5-9c51-b5a018c1c937",
+    "_sectionTitle": "Mastering Grammar and Structure",
+    "_id": "dcdc37c6-6c31-429f-9f98-db50f0a969c7"
+  },
+  {
+    "_sectionTitle": "Mastering Grammar and Structure",
+    "_id": "be9a7695-e362-49b6-961b-ae4298ae8c5e",
+    "title": "Complex Sentence Structures",
+    "subtitle": null,
+    "sequence": 51,
+    "plainTextContent": "Subordinate Clauses: Use complex subordinate clauses to add depth to your sentences. These can be noun clauses, adverbial clauses, or relative clauses.\n\nExample (Adverbial clause): I’ll go to the store after I finish my work.\n\nExample (Relative clause): The book that you recommended was fantastic.\n\nCompound Sentences with Semicolons: A semicolon can be used to connect two related independent clauses without using a conjunction.\n\nExample: I was tired; however, I decided to go for a run.",
+    "_sectionId": "3d2ba72c-d253-43e5-9c51-b5a018c1c937"
+  },
+  {
+    "subtitle": null,
+    "sequence": 52,
+    "plainTextContent": "Transform verbs or adjectives into nouns to make your language more formal and academic.\n\nExample: Instead of \"She decided to run,\" you can say \"Her decision to run was final.\"\n\nNominalization can help turn casual language into more formal, concise statements.",
+    "_sectionId": "3d2ba72c-d253-43e5-9c51-b5a018c1c937",
+    "_sectionTitle": "Mastering Grammar and Structure",
+    "_id": "a4d020d0-ed4b-406e-900a-e3283ae3b882",
+    "title": "Nominalization"
+  },
+  {
+    "_sectionId": "3d2ba72c-d253-43e5-9c51-b5a018c1c937",
+    "_sectionTitle": "Mastering Grammar and Structure",
+    "_id": "9dca8e77-ab07-48ef-985a-aee2adace301",
+    "title": "Using Modality for Precision",
+    "subtitle": null,
+    "sequence": 53,
+    "plainTextContent": "Modals of Deduction: Use modals like must, might, can’t to express certainty, possibility, or impossibility about a situation.\n\nExample: She must be at work by now. (certainty)\n\nExample: It can’t be true. (impossibility)\n\nModals of Advice: Using should, ought to, had better allows you to give advice with varying degrees of urgency.\n\nExample: You should submit the report by Friday.\n\nExample: You had better be careful when driving in the snow."
+  },
+  {
+    "_id": "55a82be3-29eb-4ab2-8019-62ae1020b6bd",
+    "title": "Parallel Structure",
+    "subtitle": null,
+    "sequence": 54,
+    "plainTextContent": "Maintain parallel structure when listing items or actions in a sentence. This ensures that all elements in a list or comparison are in the same grammatical form.\n\nExample: She enjoys running, swimming, and cycling. (correct parallel structure)\n\nIncorrect: She enjoys running, swimming, and to cycle.",
+    "_sectionId": "3d2ba72c-d253-43e5-9c51-b5a018c1c937",
+    "_sectionTitle": "Mastering Grammar and Structure"
+  },
+  {
+    "plainTextContent": "Mixed Conditionals: These combine different time references (past and present/future).\n\nExample: If I had studied harder (past), I would be a doctor now (present).",
+    "_sectionId": "3d2ba72c-d253-43e5-9c51-b5a018c1c937",
+    "_sectionTitle": "Mastering Grammar and Structure",
+    "_id": "63e0cdad-052b-44ef-bdb2-7a66384874ad",
+    "title": "Conditional Sentences in Advanced Forms",
+    "subtitle": null,
+    "sequence": 55
+  },
+  {
+    "_sectionId": "3d2ba72c-d253-43e5-9c51-b5a018c1c937",
+    "_sectionTitle": "Mastering Grammar and Structure",
+    "_id": "cdd70a9a-87c2-493b-8c58-ea8275d0e214",
+    "title": "Advanced Punctuation",
+    "subtitle": null,
+    "sequence": 56,
+    "plainTextContent": "Colon and Dash: Use these punctuation marks for emphasis or to introduce lists, quotes, or explanations.\n\nExample (colon): There are three things I need to do: call John, write the report, and schedule the meeting.\n\nExample (dash): She looked at me in surprise—her eyes wide with disbelief."
+  },
+  {
+    "_id": "cdbd1e7d-4455-4c94-8f30-f708b8d93b2f",
+    "title": "Practice with Tongue Twisters",
+    "subtitle": null,
+    "sequence": 57,
+    "plainTextContent": "Tongue twisters are a great way to improve your articulation and fluency. They help you practice the rapid movement of the tongue, lips, and mouth muscles necessary for faster speaking.\n\nExample: She sells seashells by the seashore.\n\nPractice tip: Start slowly and gradually increase speed while maintaining clarity.",
+    "_sectionId": "25b17717-946e-4c3d-91cc-534e0d956055",
+    "_sectionTitle": "Improving Speaking Speed"
+  },
+  {
+    "_sectionId": "25b17717-946e-4c3d-91cc-534e0d956055",
+    "_sectionTitle": "Improving Speaking Speed",
+    "_id": "d54c7834-bb2c-4505-9dc2-5801b656c81c",
+    "title": "Shadowing Technique",
+    "subtitle": null,
+    "sequence": 58,
+    "plainTextContent": "Shadowing involves listening to a native speaker (e.g., a podcast, news broadcast, or movie) and repeating what they say as quickly as you can, mimicking their rhythm, tone, and speed.\n\nPractice tip: Choose a short video or audio clip, pause after every few sentences, and try to repeat what was said with the same speed and tone. Over time, try to keep up without pausing."
+  },
+  {
+    "subtitle": null,
+    "sequence": 59,
+    "plainTextContent": "While speaking quickly is important, inserting natural pauses between phrases or sentences helps maintain clarity. Pauses give you a moment to gather your thoughts and avoid rushing through ideas.\n\nExample: I went to the store (pause) to buy some groceries (pause), and then I went home.",
+    "_sectionId": "25b17717-946e-4c3d-91cc-534e0d956055",
+    "_sectionTitle": "Improving Speaking Speed",
+    "_id": "1bb31e41-0bde-480d-9964-0ba8234b10df",
+    "title": "Use Pauses for Natural Rhythm"
+  },
+  {
+    "plainTextContent": "Native speakers often blend words together in a way that sounds faster and smoother. This is known as connected speech, and understanding it will help you improve your speed and fluency.\n\nExample: In casual speech, What do you want to do? becomes Wha'cha wanna do?\n\nPractice tip: Focus on blending sounds between words, like turning I am into I'm or could have into coulda.",
+    "_sectionId": "25b17717-946e-4c3d-91cc-534e0d956055",
+    "_sectionTitle": "Improving Speaking Speed",
+    "_id": "94c8a628-d28f-41a8-a4bb-ec38757b383e",
+    "title": "Mastering Connected Speech",
+    "subtitle": null,
+    "sequence": 60
+  },
+  {
+    "plainTextContent": "Recording your speech and listening to it can highlight areas where you may be speaking too slowly or stumbling over words. It allows you to hear how fast you are speaking and where you can improve.\n\nPractice tip: Record yourself reading a passage, then listen to it and try to speed it up without losing accuracy. Try this repeatedly, gradually increasing your pace.",
+    "_sectionId": "25b17717-946e-4c3d-91cc-534e0d956055",
+    "_sectionTitle": "Improving Speaking Speed",
+    "_id": "d3fe119e-e7c4-48d4-9963-dfa4b8966719",
+    "title": "Record and Listen to Yourself",
+    "subtitle": null,
+    "sequence": 61
+  },
+  {
+    "plainTextContent": "Proper breathing helps you maintain control over your speech, enabling you to speak more fluidly and at a faster pace without running out of breath.\n\nExercise: Try inhaling deeply for four counts, holding your breath for four counts, and exhaling slowly for four counts. Doing this regularly improves breath control, which is essential for faster speech.",
+    "_sectionId": "25b17717-946e-4c3d-91cc-534e0d956055",
+    "_sectionTitle": "Improving Speaking Speed",
+    "_id": "6b6cf34c-9a6e-417f-845d-bce3f4adc6ff",
+    "title": "Breathing Exercises",
+    "subtitle": null,
+    "sequence": 62
+  },
+  {
+    "_id": "55eea2a4-cd0a-4f1e-ae4c-d3ee734a23d7",
+    "title": "Expanding Vocabulary",
+    "subtitle": null,
+    "sequence": 63,
+    "plainTextContent": "The more words you know, the easier it will be to speak quickly without having to pause to think about the right word. Continue to expand your vocabulary and practice using new words in your speech.\n\nPractice tip: Try using new vocabulary words in your daily conversations or while giving speeches. The more you use them, the more natural they will become in your speech.",
+    "_sectionId": "25b17717-946e-4c3d-91cc-534e0d956055",
+    "_sectionTitle": "Improving Speaking Speed"
+  },
+  {
+    "_sectionTitle": "Reducing Filler Words",
+    "_id": "21c12417-0ccb-4cb9-9c8b-fa6640810cc1",
+    "title": "Awareness",
+    "subtitle": null,
+    "sequence": 64,
+    "plainTextContent": "The first step in reducing filler words is being aware of when and why you use them. Typically, they appear when you're pausing to think or struggling to find the right word.\n\nPractice Tip: Record yourself speaking, then listen for filler words. Identifying patterns will help you target specific moments where you rely on them.",
+    "_sectionId": "b6e93444-702f-462d-be01-d8c7129c5e00"
+  },
+  {
+    "plainTextContent": "Instead of filling the silence with a word, practice pausing. A brief pause gives you time to think without relying on fillers. It also improves the clarity of your speech.\n\nExample: If you are explaining something, instead of saying Um, I think, you know, this is important, try pausing: This is important... because....\n\nPractice Tip: During conversations, when you feel the urge to say um, replace it with a 1-2 second pause. This allows you to organize your thoughts.",
+    "_sectionId": "b6e93444-702f-462d-be01-d8c7129c5e00",
+    "_sectionTitle": "Reducing Filler Words",
+    "_id": "5e5097ef-4d80-4dfc-8640-81ec639abe46",
+    "title": "Pause Instead of Filling",
+    "subtitle": null,
+    "sequence": 65
+  },
+  {
+    "_id": "21d589a5-9ce3-4356-8b72-37d963819915",
+    "title": "Rehearse Key Phrases",
+    "subtitle": null,
+    "sequence": 66,
+    "plainTextContent": "If you're giving a speech or presentation, rehearse your key phrases or talking points. Knowing what you're going to say in advance reduces the chances of needing to fill space with um or like.\n\nPractice Tip: Write down an outline of your main points and rehearse them aloud several times to build confidence and reduce hesitation.",
+    "_sectionId": "b6e93444-702f-462d-be01-d8c7129c5e00",
+    "_sectionTitle": "Reducing Filler Words"
+  },
+  {
+    "_sectionTitle": "Reducing Filler Words",
+    "_id": "03a25c87-9c4f-422a-97e1-145e130b716c",
+    "title": "Use Transitional Phrases",
+    "subtitle": null,
+    "sequence": 67,
+    "plainTextContent": "Instead of fillers, use transitional phrases that guide your audience through your speech. Phrases like For example, In other words, To clarify help you stay focused and sound more professional.\n\nExample: Let me explain further... instead of Um, I mean....",
+    "_sectionId": "b6e93444-702f-462d-be01-d8c7129c5e00"
+  },
+  {
+    "title": "Slow Down Your Speech",
+    "subtitle": null,
+    "sequence": 68,
+    "plainTextContent": "Speaking too quickly often leads to more filler words as you try to fill gaps in your speech. Slow down your pace to allow yourself more time to think and reduce reliance on fillers.\n\nPractice Tip: When practicing your speech, consciously slow down. This will give you the mental space to organize your ideas without filling the silence with unnecessary words.",
+    "_sectionId": "b6e93444-702f-462d-be01-d8c7129c5e00",
+    "_sectionTitle": "Reducing Filler Words",
+    "_id": "78ac0dda-e97a-421b-b01d-12f8790ca63c"
+  },
+  {
+    "_sectionTitle": "Reducing Filler Words",
+    "_id": "1d26f970-28f1-41c5-b514-6275726a3836",
+    "title": "Replace Filler Words with Confident Statements",
+    "subtitle": null,
+    "sequence": 69,
+    "plainTextContent": "Instead of using fillers, replace them with confident, direct statements. If you’re unsure of an answer, it’s better to acknowledge it confidently rather than filling with like or you know.\n\nExample: Instead of Um, I think the solution might be..., say The solution is... or The solution will be....",
+    "_sectionId": "b6e93444-702f-462d-be01-d8c7129c5e00"
+  },
+  {
+    "_sectionTitle": "Reducing Filler Words",
+    "_id": "fc510be9-720c-4d90-a5eb-010e619a0987",
+    "title": "Practice Speaking Without Filler Words",
+    "subtitle": null,
+    "sequence": 70,
+    "plainTextContent": "One of the best ways to reduce filler words is consistent practice. Engage in conversations or presentations where you actively avoid them.\n\nPractice Tip: Record a short talk on a random topic, then listen to it and note how often you used filler words. Gradually reduce their frequency in future recordings.",
+    "_sectionId": "b6e93444-702f-462d-be01-d8c7129c5e00"
+  },
+  {
+    "title": "Understanding Pitch",
+    "subtitle": null,
+    "sequence": 71,
+    "plainTextContent": "Pitch is the highness or lowness of your voice. It is essential for conveying meaning and emotion. For example, a higher pitch may indicate excitement, while a lower pitch can suggest seriousness or authority.\n\nVarying your pitch helps to avoid sounding monotone, which can make your speech dull and difficult to follow.",
+    "_sectionId": "bf751784-0ba3-4aea-8ef3-c275e7741c74",
+    "_sectionTitle": "Enhancing Pitch Variation",
+    "_id": "d858350d-d503-49ed-bdb5-2d89028d1f14"
+  },
+  {
+    "sequence": 72,
+    "plainTextContent": "To emphasize important ideas or words, raise your pitch slightly. This draws the listener's attention to what matters most.\n\nExample: \"This is the most important point in my argument.\"\n\nPractice Tip: In your speech, identify a few key words or phrases and practice raising your pitch on those words to add emphasis.",
+    "_sectionId": "bf751784-0ba3-4aea-8ef3-c275e7741c74",
+    "_sectionTitle": "Enhancing Pitch Variation",
+    "_id": "30090ef2-8276-4933-914f-f34de05a9971",
+    "title": "Emphasizing Key Points",
+    "subtitle": null
+  },
+  {
+    "_id": "9fe83fc4-2241-4524-93cf-8648c5d18fdb",
+    "title": "Using Rising and Falling Intonation",
+    "subtitle": null,
+    "sequence": 73,
+    "plainTextContent": "Rising intonation occurs when your pitch increases, usually in questions or to express uncertainty.\n\nExample: \"Are you coming with us?\" (rising pitch at the end).\n\nFalling intonation happens when your pitch drops, usually in statements or commands.\n\nExample: \"I will meet you at 5 PM.\" (falling pitch at the end).",
+    "_sectionId": "bf751784-0ba3-4aea-8ef3-c275e7741c74",
+    "_sectionTitle": "Enhancing Pitch Variation"
+  },
+  {
+    "sequence": 74,
+    "plainTextContent": "Varying your pitch can convey emotions like excitement, surprise, or urgency. A speaker might use a higher pitch to express enthusiasm and a lower pitch to show seriousness or sadness.\n\nExample: \"I can't believe this is happening!\" (higher pitch for excitement)\n\n\"This is a serious issue.\" (lower pitch for emphasis)",
+    "_sectionId": "bf751784-0ba3-4aea-8ef3-c275e7741c74",
+    "_sectionTitle": "Enhancing Pitch Variation",
+    "_id": "657d4327-5622-405b-9a97-3eba93a0b2b3",
+    "title": "Creating Emotion and Impact",
+    "subtitle": null
+  },
+  {
+    "_sectionTitle": "Enhancing Pitch Variation",
+    "_id": "5f109e50-af7c-4474-8419-7d789c833e1d",
+    "title": "Practicing Pitch Variation",
+    "subtitle": null,
+    "sequence": 75,
+    "plainTextContent": "To practice pitch variation, start with reading a passage aloud. Try consciously varying your pitch to match the emotional tone or key points.\n\nExercise Tip: Read a paragraph of text and practice making your voice rise and fall at different points. Focus on the natural flow of speech, rather than forcing it.",
+    "_sectionId": "bf751784-0ba3-4aea-8ef3-c275e7741c74"
+  },
+  {
+    "title": "Avoiding Monotony",
+    "subtitle": null,
+    "sequence": 76,
+    "plainTextContent": "Speaking in a monotone voice (without any variation in pitch) can make even the most exciting ideas sound flat. To avoid this, practice controlling your pitch throughout your speech by varying it purposefully.\n\nExercise Tip: Record yourself speaking on a topic and listen for any monotony. If your pitch remains flat, practice increasing and decreasing it in key areas.",
+    "_sectionId": "bf751784-0ba3-4aea-8ef3-c275e7741c74",
+    "_sectionTitle": "Enhancing Pitch Variation",
+    "_id": "78ebb428-9566-498d-b4cd-2cea492522a7"
+  },
+  {
+    "sequence": 77,
+    "plainTextContent": "Over-exaggerating pitch changes can sound unnatural. Aim for a balanced, natural variation to make your speech sound dynamic without overdoing it.\n\nPractice Tip: During practice, focus on sounding natural. Your pitch should rise and fall in a way that feels comfortable and aligns with your natural speaking rhythm.",
+    "_sectionId": "bf751784-0ba3-4aea-8ef3-c275e7741c74",
+    "_sectionTitle": "Enhancing Pitch Variation",
+    "_id": "33d0f368-7c53-4524-8676-4c2f86a668da",
+    "title": " Natural Pitch Variation",
+    "subtitle": null
+  },
+  {
+    "_id": "9c58745c-9f53-4171-b232-8f67a09c9f82",
+    "title": "Using Synonyms for Precision",
+    "subtitle": null,
+    "sequence": 78,
+    "plainTextContent": "At the advanced level, it’s important to choose synonyms that fit the context of your conversation or writing. Instead of relying on common words like good or bad, use more specific alternatives that better express the intended meaning.\n\nExample: Instead of good, use excellent, outstanding, or impressive based on the context. Instead of bad, try detrimental, unfavorable, or substandard.",
+    "_sectionId": "660a4d19-4bf7-4905-8316-5f787a926117",
+    "_sectionTitle": "Expanding Vocabulary to Advanced Levels"
+  },
+  {
+    "plainTextContent": "Words carry not only a literal meaning (denotation) but also emotional or cultural implications (connotation). Advanced vocabulary involves understanding both.\n\nExample: The word slim has a positive connotation (implying elegance), while skinny might have a more negative or neutral connotation (implying excessive thinness).\n\nUnderstanding connotation helps you select words that fit the tone or emotional undertone of your message.",
+    "_sectionId": "660a4d19-4bf7-4905-8316-5f787a926117",
+    "_sectionTitle": "Expanding Vocabulary to Advanced Levels",
+    "_id": "fffa9405-3e45-4821-8cef-8a325bb3e638",
+    "title": "Understanding Connotation",
+    "subtitle": null,
+    "sequence": 79
+  },
+  {
+    "_id": "3e791e8d-b78f-4c0e-94f6-1457a3e8b8dc",
+    "title": "Collocations",
+    "subtitle": null,
+    "sequence": 80,
+    "plainTextContent": "Advanced speakers use collocations—common combinations of words that sound natural together. For instance, instead of saying make a mistake, native speakers would often say make an error.\n\nExample: Instead of do a decision, use make a decision. Instead of big problem, use major problem.",
+    "_sectionId": "660a4d19-4bf7-4905-8316-5f787a926117",
+    "_sectionTitle": "Expanding Vocabulary to Advanced Levels"
+  },
+  {
+    "sequence": 81,
+    "plainTextContent": "Mastering idiomatic phrases adds depth and fluency to your speech. These expressions are often culturally specific and can’t be understood through their literal meanings.\n\nExample: \"Bite the bullet\" means to endure something painful or unpleasant. \"Break the ice\" refers to initiating conversation to ease tension.\n\nPractice tip: Learn common idiomatic expressions related to your area of interest (business, travel, emotions) to improve your fluency in specific contexts.",
+    "_sectionId": "660a4d19-4bf7-4905-8316-5f787a926117",
+    "_sectionTitle": "Expanding Vocabulary to Advanced Levels",
+    "_id": "b9796d62-62cf-4d40-a09f-65c118f34f2b",
+    "title": "Idiomatic Expressions",
+    "subtitle": null
+  },
+  {
+    "plainTextContent": "Learn how to form different parts of speech from a single root word. This includes transforming nouns into verbs, adjectives into adverbs, etc.\n\nExample: Decide (verb) → Decision (noun) → Decisive (adjective) → Decisively (adverb).",
+    "_sectionId": "660a4d19-4bf7-4905-8316-5f787a926117",
+    "_sectionTitle": "Expanding Vocabulary to Advanced Levels",
+    "_id": "3bb69e97-a7e7-496f-bfef-57eef9fad662",
+    "title": "Word Formation",
+    "subtitle": null,
+    "sequence": 82
+  },
+  {
+    "_id": "17d967eb-ac22-4ebe-b43c-0c66c6192678",
+    "title": "Formal and Informal Vocabulary",
+    "subtitle": null,
+    "sequence": 83,
+    "plainTextContent": "At an advanced level, you should be able to switch between formal and informal language depending on the situation. Formal language is used in professional, academic, or serious contexts, while informal language is common in casual conversations.\n\nExample: Instead of I think (informal), use I believe (formal). Instead of get (informal), use obtain (formal).",
+    "_sectionId": "660a4d19-4bf7-4905-8316-5f787a926117",
+    "_sectionTitle": "Expanding Vocabulary to Advanced Levels"
+  },
+  {
+    "subtitle": null,
+    "sequence": 84,
+    "plainTextContent": "Expanding your vocabulary to include academic and technical terms is crucial for engaging in professional, scientific, or academic discussions.\n\nExample: Instead of help, use assist in a professional context. Instead of important, use critical or crucial for a more formal tone.",
+    "_sectionId": "660a4d19-4bf7-4905-8316-5f787a926117",
+    "_sectionTitle": "Expanding Vocabulary to Advanced Levels",
+    "_id": "9884d654-d89e-4adf-a6d8-2a4b29499e83",
+    "title": "Using Academic and Technical Vocabulary"
+  }
+]
